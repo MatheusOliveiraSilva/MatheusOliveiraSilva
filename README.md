@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MatheusOliveiraSilva
-- I like to solve problems and make decisions to optimize people lifes.
-- I'm interested in A.I. development and deep learning applications.
-- I’m currently studying Machine Learning Engineering.
+- I'm passionate about AI Engineering.
+- I’m currently doing my Master's Degree @ [PUC-Rio](https://www.inf.puc-rio.br/pos-graduacao/).
 
-- 📫 How to reach me : Personal e-mail : matheusolivsilv.ai@gmail.com  // linkedin : https://www.linkedin.com/in/matheus-silva-5112b8255/
-
-
+- 📫 How to reach me :
+  - Personal e-mail : matheusolivsilv.ai@gmail.com
+  - Linkedin : https://www.linkedin.com/in/matheus-silva-5112b8255/
