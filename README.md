@@ -20,7 +20,7 @@ Nowadays I work as AI Engineer @ TecGraf/Puc-Rio, also use part of my sprint poi
 ## Technologies and Tools
 
 ### Language & Frameworks
-- Python | Langchain | LangGraph | Tensorflow | C++ | JavaScript
+- Python | Golang | Langchain | LangGraph | Tensorflow | C++ | JavaScript
 
 ### Database & Cloud
 - PostgreSQL | MongoDB | AWS | Docker | Azure
