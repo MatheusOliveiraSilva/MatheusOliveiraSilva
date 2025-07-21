@@ -2,11 +2,11 @@
 
 ## 📌 Current Role 
 
-I work as a Software Engineer for Applied AI @ TecGraf/Puc-Rio.
+I work as a Data/AI Engineer @ BTG Pactual
 
 ## 🎓 Education
 - I’m currently doing my Master's Degree @ [PUC-Rio](https://www.inf.puc-rio.br/pos-graduacao/).
-- Graduation: Computer Science @ [UFRJ](https://ufrj.br/en/).
+- Completed my graduation in computer science @ [UFRJ](https://ufrj.br/en/).
 
 ## 📫 How to reach me :
   - Personal e-mail : matheusolivsilv.ai@gmail.com
@@ -15,12 +15,8 @@ I work as a Software Engineer for Applied AI @ TecGraf/Puc-Rio.
 ## Technologies and Tools
 
 ### Language & Frameworks
-- Python | Golang | Langchain | LangGraph | Tensorflow | C++ | JavaScript
+AI Engineering: Python, LangChain, LangGraph, RAG, embeddings, vector DBs (Pinecone, Weaviate)
+Data Engineering & MLOps: Airflow, AWS Kinesis, AWS EMR, Spark, Delta Lake (Parquet/S3), Docker, Terraform.
 
 ### Database & Cloud
-- PostgreSQL | MongoDB | AWS | Docker | Azure
-
-### Specialities
-- Chatbots powered by RAG
-- AI Agents (e.g., text to SQL agent with self-correction)
-- All above served as APIs
+- Oracle | PostgreSQL | MongoDB | AWS | Azure
