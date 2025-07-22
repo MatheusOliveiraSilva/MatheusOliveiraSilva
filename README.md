@@ -16,6 +16,7 @@ I work as a Data/AI Engineer @ BTG Pactual
 
 ### Language & Frameworks
 AI Engineering: Python, LangChain, LangGraph, RAG, embeddings, vector DBs (Pinecone, Weaviate)
+
 Data Engineering & MLOps: Airflow, AWS Kinesis, AWS EMR, Spark, Delta Lake (Parquet/S3), Docker, Terraform.
 
 ### Database & Cloud
