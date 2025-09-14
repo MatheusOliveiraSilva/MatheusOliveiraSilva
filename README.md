@@ -5,7 +5,7 @@
 I work as a Data/AI Engineer @ BTG Pactual
 
 ## 🎓 Education
-- I’m currently doing my Master's Degree @ [PUC-Rio](https://www.inf.puc-rio.br/pos-graduacao/).
+- Completed my Master's Degree in computer science (focused in Agent Engineering) @ [PUC-Rio](https://www.inf.puc-rio.br/pos-graduacao/).
 - Completed my graduation in computer science @ [UFRJ](https://ufrj.br/en/).
 
 ## 📫 How to reach me :
@@ -15,7 +15,7 @@ I work as a Data/AI Engineer @ BTG Pactual
 ## Technologies and Tools
 
 ### Language & Frameworks
-AI Engineering: Python, LangChain, LangGraph, RAG, embeddings, vector DBs (Pinecone, Weaviate)
+AI Engineering: Python, LangChain, LangGraph, MCP, RAG, embeddings, vector DBs (Pinecone, Weaviate)
 
 Data Engineering & MLOps: Airflow, AWS Kinesis, AWS EMR, Spark, Delta Lake (Parquet/S3), Docker, Terraform.
 
