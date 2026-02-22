@@ -2,7 +2,7 @@
 
 ## Current Role 
 
-I work as a Data/AI Engineer @ BTG Pactual
+I work as a Software Engineer - LLMOps
 
 ## Education
 - Completed my Master's Degree in computer science (focused in Agent Engineering) @ [PUC-Rio](https://www.inf.puc-rio.br/pos-graduacao/).
@@ -15,9 +15,13 @@ I work as a Data/AI Engineer @ BTG Pactual
 ## Technologies and Tools
 
 ### Language & Frameworks
-AI Engineering: Python, LangChain, LangGraph, MCP, HuggingFace, vector DBs for RAG (Pinecone, Opensearch), knowledge graphs.
+AI: LangChain, LangGraph, MCP, HuggingFace, vector DBs for RAG (Pinecone, Opensearch), knowledge graphs (HelixDB, Neo4j).
 
-Data Engineering & MLOps: Airflow, AWS Kinesis, AWS EMR, Spark, Delta Lake (Parquet/S3), Docker, Terraform.
+Backend: Fastapi for python and Tokio for Rust
+
+Data Engineering: Airflow, AWS Kinesis, AWS EMR, Spark, Delta Lake (Parquet/S3), Docker, Terraform.
+
+Observability: Prometheus, Datadog, Langfuse and Langsmith.
 
 ### Database & Cloud
-- Oracle | PostgreSQL | MongoDB | AWS | Azure
+- Oracle | PostgreSQL | Athena | MongoDB | AWS | Azure
