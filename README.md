@@ -28,7 +28,6 @@ My work sits at the intersection of **product, agents, and real-world AI systems
 ## Selected work
 
 - 🧠 **Praxis (WIP)** — AI-first workspace for autonomous agents  
-- ⚙️ **LangSmith Rust SDK** — observability tooling for LLM systems in Rust  
 - 🧩 **Mini Cursor CLI** — experimental codebase-aware AI CLI  
 
 ---
