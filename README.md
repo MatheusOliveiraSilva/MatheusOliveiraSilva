@@ -1,27 +1,53 @@
-# I’m @MatheusOliveiraSilva 👋
+# Hi, I'm Matheus 👋
 
-## Current Role 
+Building autonomous AI agents and production-grade LLM systems.
 
-I work as a Software Engineer - LLMOps
+---
 
-## Education
-- Completed my Master's Degree in computer science (focused in Agent Engineering) @ [PUC-Rio](https://www.inf.puc-rio.br/pos-graduacao/).
-- Completed my graduation in computer science @ [UFRJ](https://ufrj.br/en/).
+## What I do
 
-## 📫 How to reach me :
-  - Personal e-mail : matheusolivsilv.ai@gmail.com
-  - Linkedin : https://www.linkedin.com/in/matheus-silva-5112b8255/
+I design and build AI systems that go beyond demos — focusing on:
 
-## Technologies and Tools
+- autonomous agents (tool use, workflows, reasoning loops)
+- AI product engineering (UX + system design)
+- LLM systems in production (latency, reliability, evals)
 
-### Language & Frameworks
-AI: LangChain, LangGraph, MCP, HuggingFace, vector DBs for RAG (Pinecone, Opensearch), knowledge graphs (HelixDB, Neo4j).
+My work sits at the intersection of **product, agents, and real-world AI systems**.
 
-Backend: Fastapi for python and Tokio for Rust
+---
 
-Data Engineering: Airflow, AWS Kinesis, AWS EMR, Spark, Delta Lake (Parquet/S3), Docker, Terraform.
+## Current focus
 
-Observability: Prometheus, Datadog, Langfuse and Langsmith.
+→ coding agents  
+→ AI developer tools  
+→ agent runtime systems  
+→ making AI actually work in production  
 
-### Database & Cloud
-- Oracle | PostgreSQL | Athena | MongoDB | AWS | Azure
+---
+
+## Selected work
+
+- 🧠 **Praxis (WIP)** — AI-first workspace for autonomous agents  
+- ⚙️ **LangSmith Rust SDK** — observability tooling for LLM systems in Rust  
+- 🧩 **Mini Cursor CLI** — experimental codebase-aware AI CLI  
+
+---
+
+## Background
+
+- Building AI platforms and LLM systems in production  
+- Developed conversational systems (Text-to-SQL) used by thousands of users  
+- Experience across agent systems, data platforms, and distributed architectures  
+
+---
+
+## Philosophy
+
+I care about building AI systems that actually work in the real world —  
+not just prototypes, but reliable, observable and useful products.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/matheus-silva-5112b8255/
